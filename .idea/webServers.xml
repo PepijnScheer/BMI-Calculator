@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8290235b-720e-4e36-ad86-ba42a81971ed" name="k" url="http://localhost/ajaxfro">
+        <fileTransfer port="0" mountedRoot="C:\Users\pepij\Desktop\ajaxfro" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
